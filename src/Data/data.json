@@ -1,0 +1,74 @@
+[
+  {
+    "name": "club",
+    "cards": [
+      { "img": "/IMG/individuals/club/2_club.png", "value": 2 },
+      { "img": "/IMG/individuals/club/3_club.png", "value": 3 },
+      { "img": "/IMG/individuals/club/4_club.png", "value": 4 },
+      { "img": "/IMG/individuals/club/5_club.png", "value": 5 },
+      { "img": "/IMG/individuals/club/6_club.png", "value": 6 },
+      { "img": "/IMG/individuals/club/7_club.png", "value": 7 },
+      { "img": "/IMG/individuals/club/8_club.png", "value": 8 },
+      { "img": "/IMG/individuals/club/9_club.png", "value": 9 },
+      { "img": "/IMG/individuals/club/10_club.png", "value": 10 },
+      { "img": "/IMG/individuals/club/11_club.png", "value": 11 },
+      { "img": "/IMG/individuals/club/12_club.png", "value": 12 },
+      { "img": "/IMG/individuals/club/13_club.png", "value": 13 },
+      { "img": "/IMG/individuals/club/1_club.png", "value": 14 }
+    ]
+  },
+  {
+    "name": "diamond",
+    "cards": [
+      { "img": "/IMG/individuals/diamond/2_diamond.png", "value": 2 },
+      { "img": "/IMG/individuals/diamond/3_diamond.png", "value": 3 },
+      { "img": "/IMG/individuals/diamond/4_diamond.png", "value": 4 },
+      { "img": "/IMG/individuals/diamond/5_diamond.png", "value": 5 },
+      { "img": "/IMG/individuals/diamond/6_diamond.png", "value": 6 },
+      { "img": "/IMG/individuals/diamond/7_diamond.png", "value": 7 },
+      { "img": "/IMG/individuals/diamond/8_diamond.png", "value": 8 },
+      { "img": "/IMG/individuals/diamond/9_diamond.png", "value": 9 },
+      { "img": "/IMG/individuals/diamond/10_diamond.png", "value": 10 },
+      { "img": "/IMG/individuals/diamond/11_diamond.png", "value": 11 },
+      { "img": "/IMG/individuals/diamond/12_diamond.png", "value": 12 },
+      { "img": "/IMG/individuals/diamond/13_diamond.png", "value": 13 },
+      { "img": "/IMG/individuals/diamond/1_diamond.png", "value": 14 }
+    ]
+  },
+  {
+    "name": "heart",
+    "cards": [
+      { "img": "/IMG/individuals/heart/2_heart.png", "value": 2 },
+      { "img": "/IMG/individuals/heart/3_heart.png", "value": 3 },
+      { "img": "/IMG/individuals/heart/4_heart.png", "value": 4 },
+      { "img": "/IMG/individuals/heart/5_heart.png", "value": 5 },
+      { "img": "/IMG/individuals/heart/6_heart.png", "value": 6 },
+      { "img": "/IMG/individuals/heart/7_heart.png", "value": 7 },
+      { "img": "/IMG/individuals/heart/8_heart.png", "value": 8 },
+      { "img": "/IMG/individuals/heart/9_heart.png", "value": 9 },
+      { "img": "/IMG/individuals/heart/10_heart.png", "value": 10 },
+      { "img": "/IMG/individuals/heart/11_heart.png", "value": 11 },
+      { "img": "/IMG/individuals/heart/12_heart.png", "value": 12 },
+      { "img": "/IMG/individuals/heart/13_heart.png", "value": 13 },
+      { "img": "/IMG/individuals/heart/1_heart.png", "value": 14 }
+    ]
+  },
+  {
+    "name": "spade",
+    "cards": [
+      { "img": "/IMG/individuals/spade/2_spade.png", "value": 2 },
+      { "img": "/IMG/individuals/spade/3_spade.png", "value": 3 },
+      { "img": "/IMG/individuals/spade/4_spade.png", "value": 4 },
+      { "img": "/IMG/individuals/spade/5_spade.png", "value": 5 },
+      { "img": "/IMG/individuals/spade/6_spade.png", "value": 6 },
+      { "img": "/IMG/individuals/spade/7_spade.png", "value": 7 },
+      { "img": "/IMG/individuals/spade/8_spade.png", "value": 8 },
+      { "img": "/IMG/individuals/spade/9_spade.png", "value": 9 },
+      { "img": "/IMG/individuals/spade/10_spade.png", "value": 10 },
+      { "img": "/IMG/individuals/spade/11_spade.png", "value": 11 },
+      { "img": "/IMG/individuals/spade/12_spade.png", "value": 12 },
+      { "img": "/IMG/individuals/spade/13_spade.png", "value": 13 },
+      { "img": "/IMG/individuals/spade/1_spade.png", "value": 14 }
+    ]
+  }
+]
