@@ -1,0 +1,112 @@
+.card-img {
+  width: 70%;
+  position: absolute;
+  z-index: 10;
+}
+.player1-card-img,
+.player4-card-img {
+  width: 10%;
+  padding: 2%;
+}
+.player2-card-img {
+  width: 15%;
+  padding: 1%;
+  transform: rotate(90deg);
+}
+.player3-card-img {
+  width: 15%;
+  padding: 1%;
+  transform: rotate(-90deg);
+}
+.you-card-img {
+  width: 7%;
+  padding: 1%;
+}
+
+.hide {
+  display: none;
+}
+
+.scale-up-center {
+  animation: scale-up-center 1s cubic-bezier(0.39, 0.575, 0.565, 1) both;
+}
+
+@keyframes scale-up-center {
+  0% {
+    transform: scale(0.1);
+  }
+  100% {
+    transform: scale(1);
+  }
+}
+
+.left-animation {
+  animation: left-animation 1s cubic-bezier(0.39, 0.575, 0.565, 1) both;
+}
+
+@keyframes left-animation {
+  0% {
+    transform: translateX(0);
+  }
+  100% {
+    transform: translateX(-450%);
+  }
+}
+
+.right-animation {
+  animation: right-animation 1s cubic-bezier(0.39, 0.575, 0.565, 1) both;
+}
+
+@keyframes right-animation {
+  0% {
+    transform: translateX(0);
+  }
+  100% {
+    transform: translateX(500%);
+  }
+}
+
+.top-animation {
+  animation: top-animation 1s cubic-bezier(0.39, 0.575, 0.565, 1) both;
+}
+
+@keyframes top-animation {
+  0% {
+    transform: translateY(0);
+  }
+  100% {
+    transform: translateY(-140%);
+  }
+}
+
+.bottom-animation {
+  animation: bottom-animation 1s cubic-bezier(0.39, 0.575, 0.565, 1) both;
+}
+
+@keyframes bottom-animation {
+  0% {
+    transform: translateY(0);
+  }
+  100% {
+    transform: translateY(120%);
+  }
+}
+
+.move {
+  /* animation: move 1s cubic-bezier(0.39, 0.575, 0.565, 1) both; */
+  position: absolute;
+  top: -81%;
+}
+
+.you-card-img:hover {
+  cursor: pointer;
+  transform: scale(1.1);
+}
+/* @keyframes move {
+  0% {
+    transform: translateX(0);
+  }
+  100% {
+    transform: translateX(-100%);
+  }
+} */
